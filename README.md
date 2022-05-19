@@ -2,7 +2,7 @@
 - 👀 I’m interested in flutter and firebase
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on flutter projects
-- 📫 wasibhussain3@gmail.com
+- 📫 Reach me out wasibhussain3@gmail.com
 
 <!---
 wasibhussain/wasibhussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
