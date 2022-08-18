@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wasibhussain
 - 👀 I’m interested in flutter and firebase
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently working as a flutter developer
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 Reach me out wasibhussain3@gmail.com
 
