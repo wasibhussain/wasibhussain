@@ -29,12 +29,12 @@ You can click the Preview link to take a look at your changes.
 - Project Management (Git, Github)
 - Deployment (Firebase, Netlify, Custom Deployment)
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Baboo&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="developerbaboo" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasibhussain&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="wasibhussain" /></p>
 <br/>
 
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Developer-Baboo&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasibhussain&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
@@ -44,7 +44,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Developer-Baboo&label=Profile%20Views&color=3&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=wasibhussain&label=Profile%20Views&color=3&pretty=false" />
 </a>
 
 [![@wasibhussain's Holopin board](https://holopin.me/wasibhussain)](https://holopin.io/@wasibhussain)
