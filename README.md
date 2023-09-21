@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasibhussain&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github.com/wasibhussain/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img><
+<img src="https://github.com/wasibhussain/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img>
 
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1660415397/60712/writing-hand.gif?1660415397" width="30"/> 𝔻𝕖𝕧 ℚ𝕦𝕠𝕥𝕖</h2>
