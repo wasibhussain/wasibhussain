@@ -51,4 +51,4 @@ You can click the Preview link to take a look at your changes.
 ## 🏆 Hacktoberfest Badges
 <br/>
 
-![]@wasibhussain's Holopin board](https://holopin.me/wasibhussain)](https://holopin.io/@wasibhussain)
+[![An image of @wasibhussain's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wasibhussain)](https://holopin.io/@wasibhussain)
