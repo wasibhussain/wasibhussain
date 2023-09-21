@@ -47,6 +47,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=wasibhussain&label=Profile%20Views&color=3&pretty=false" />
 </a>
-## 🏆 Hacktoberfest Badges
 
+## 🏆 Hacktoberfest Badges
+<br/>
 [![@wasibhussain's Holopin board](https://holopin.me/wasibhussain)](https://holopin.io/@wasibhussain)
