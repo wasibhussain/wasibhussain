@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 - Rest API's
 - Databases (Firebase, MYSQL, MongoDB)
 - Project Management (Git, Github)
-- Deployment (Firebase, Netlify, Custom Deployement)
+- Deployment (Firebase, Netlify, Custom Deployment)
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Developer-Baboo&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="developerbaboo" /></p>
 <br/>
