@@ -25,9 +25,9 @@ You can click the Preview link to take a look at your changes.
 - Data Structure and Algorithms
 - SQL
 - Rest API's
-- Databases (Firebase, MYSQL, MongoDB)
+- Databases (Firebase, MYSQL, MongoDB, Appwrite, SQFLite)
 - Project Management (Git, Github)
-- Deployment (Firebase, Netlify, Custom Deployment)
+- Deployment (Firebase, Netlify, Vercel, Custom Deployment)
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasibhussain&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="wasibhussain" /></p>
 <br/>
