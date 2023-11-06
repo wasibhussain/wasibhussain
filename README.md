@@ -15,9 +15,8 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💻 Junior Developer @ <a href="https://genetechsolutions.com/">Genetech Solutions</a>
 - 📫 How to reach me *wasibhussain3@gmail.com*
 - ⚡ Fun fact *I love coding and I'm a quick learner.*
-- 👀 I’m interested in flutter and firebase
-- 🌱 I’m currently working as a flutter developer
-- 💞️ I’m looking to collaborate on flutter projects
+- 👀 I’m interested in contributing Open Source projects
+- 🌱 I’m currently working as a Flutter developer
 
 ## 🚀 Technologies I know
 
