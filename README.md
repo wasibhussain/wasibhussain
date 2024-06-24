@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <!-- - 🔭 I’m currently working on *<img src="./react.png"/>* -->
 
 - 🎓 Graduated BS- Software Engineering with Award Winning FYP
-- 👨‍💻 Junior Developer @ <a href="https://genetechsolutions.com/">Genetech Solutions</a>
+- 👨‍💻 Associate Software Developer @ <a href="https://genetechsolutions.com/">Genetech Solutions</a>
 - 📫 How to reach me *wasibhussain3@gmail.com*
 - ⚡ Fun fact *I love coding and I'm a quick learner.*
 - 👀 I’m interested in contributing Open Source projects
