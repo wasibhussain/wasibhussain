@@ -8,30 +8,57 @@ You can click the Preview link to take a look at your changes.
 
 
 ## 🙋‍♂️ About Me
-<!-- <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
-<!-- - 🔭 I’m currently working on *<img src="./react.png"/>* -->
 
-- 🎓 Graduated BS- Software Engineering with Award Winning FYP
-- 👨‍💻 Associate Software Developer @ <a href="https://genetechsolutions.com/">Genetech Solutions</a>
-- 📫 How to reach me *wasibhussain3@gmail.com*
-- ⚡ Fun fact *I love coding and I'm a quick learner.*
-- 👀 I’m interested in contributing Open Source projects
-- 🌱 I’m currently working as a Flutter developer
+- 🎓 **Graduated with a Bachelor's in Software Engineering** – received the **Best Final Year Project Award** for *Try Virtually*, a virtual shopping app  
+- 👨‍💻 Currently working as an **Associate Software Developer** at [Genetech Solutions](https://genetechsolutions.com/)  
+- 📫 Reach me at: **wasibhussain3@gmail.com**  
+- ⚡ *I love building real-world apps and learning new technologies*  
+- 👀 Always open to contributing to **open-source projects**  
+- 🌱 Currently working on scalable **mobile and web apps** using **Flutter, Next.js, and React.js**
 
-## 🚀 Technologies I know
+---
 
-- Flutter, Dart, Java, C++
-- Data Structure and Algorithms
-- SQL
-- Rest API's
-- Databases (Firebase, MYSQL, MongoDB, Appwrite, SQFLite)
-- Project Management (Git, Github)
-- Deployment (Firebase, Netlify, Vercel, Custom Deployment)
+## 🚀 Technologies I Work With
+
+### 💻 Languages & Frameworks
+- Flutter, Dart, Kotlin, Java, C++, Node.js  
+- React.js, Next.js
+
+### 📱 Mobile & Web Development
+- Flutter (Android, iOS, Web)  
+- Kotlin (Native Android)  
+- React/Next.js (Frontend)
+
+### 🧠 State Management
+- Provider, GetX
+
+### 🌐 APIs
+- RESTful APIs  
+- Firebase Cloud Messaging (FCM)  
+- Google Maps API
+
+### 🗃️ Databases
+- Firebase Firestore  
+- MySQL, MongoDB  
+- Appwrite, SQFLite
+
+### 🛠️ Tools & Platforms
+- Git & GitHub  
+- Postman  
+- Figma  
+- Firebase Hosting, Vercel, Netlify  
+- Custom Linux Server (cPanel/SSH)
+
+### 📦 Other Skills
+- Localization (multi-language apps)  
+- Push Notifications  
+- Offline-first architecture  
+- Performance Optimization  
+- Clean MVC Code Structure
+
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasibhussain&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="wasibhussain" /></p>
 <br/>
-
-
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasibhussain&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br/>
